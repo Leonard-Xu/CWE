@@ -6,7 +6,7 @@ The work is published in IJCAI 2015, entitled with "Joint Learning of Character 
 
 Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun, Huanbo Luan. Joint Learning of Character and Word Embeddings. The 25th International Joint Conference on Artificial Intelligence (IJCAI 2015).
 
-Download paper：![link](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2015_character.pdf)
+Download paper：http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2015_character.pdf
 
 
 ##Note
